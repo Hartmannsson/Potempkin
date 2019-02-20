@@ -1,0 +1,11 @@
+C:\Users\hartm\source\repos\Potempkin\Potempkin\obj\Debug\netcoreapp2.2\Potempkin.csprojAssemblyReference.cache
+C:\Users\hartm\source\repos\Potempkin\Potempkin\obj\Debug\netcoreapp2.2\Potempkin.csproj.CoreCompileInputs.cache
+C:\Users\hartm\source\repos\Potempkin\Potempkin\obj\Debug\netcoreapp2.2\Potempkin.AssemblyInfoInputs.cache
+C:\Users\hartm\source\repos\Potempkin\Potempkin\obj\Debug\netcoreapp2.2\Potempkin.AssemblyInfo.cs
+C:\Users\hartm\source\repos\Potempkin\Potempkin\bin\Debug\netcoreapp2.2\Potempkin.deps.json
+C:\Users\hartm\source\repos\Potempkin\Potempkin\bin\Debug\netcoreapp2.2\Potempkin.runtimeconfig.json
+C:\Users\hartm\source\repos\Potempkin\Potempkin\bin\Debug\netcoreapp2.2\Potempkin.runtimeconfig.dev.json
+C:\Users\hartm\source\repos\Potempkin\Potempkin\bin\Debug\netcoreapp2.2\Potempkin.dll
+C:\Users\hartm\source\repos\Potempkin\Potempkin\bin\Debug\netcoreapp2.2\Potempkin.pdb
+C:\Users\hartm\source\repos\Potempkin\Potempkin\obj\Debug\netcoreapp2.2\Potempkin.dll
+C:\Users\hartm\source\repos\Potempkin\Potempkin\obj\Debug\netcoreapp2.2\Potempkin.pdb
