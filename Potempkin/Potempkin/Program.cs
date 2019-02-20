@@ -33,7 +33,7 @@ namespace Potempkin
 
             while (!game.Lost)
             {
-                Console.WriteLine($"DEBUG: Squares occupied by enemy ships: {game.SpyLocations}");
+                // Console.WriteLine($"DEBUG: Squares occupied by enemy ships: {game.SpyLocations}");
                 Console.WriteLine("Where do you want to fire?");
                 Bomb = Console.ReadLine().ToUpper();  // VALIDATE INPUT
                 game.FireShot(Bomb);
